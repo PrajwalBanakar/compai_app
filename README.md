@@ -5,6 +5,10 @@ Provides an interactive UI to compare AI model responses with live metrics.
 
 ---
 
+## Vercel URL
+
+https://compai-app.vercel.app/
+
 ## 🚀 Tech Stack
 
 * **Next.js 13+** (React framework)
